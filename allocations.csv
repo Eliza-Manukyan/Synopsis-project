@@ -1,0 +1,9 @@
+Student ID,Name,Surname,Email,Gender,Faculty,Course,Room Number
+100,Emil,Hovhannisyan,example@gmail.com,Male,IMA,3,105
+S001,John,Doe,john.doe@example.com,Male,Engineering,CS101,101
+S002,Mike,Smith,mike.smith@example.com,Male,Engineering,CS102,101
+S003,Alex,Brown,alex.brown@example.com,Male,Physics,PHY101,102
+S004,Sarah,Johnson,sarah.j@example.com,Female,Biology,BIO101,103
+S005,Emily,Davis,emily.davis@example.com,Female,Biology,BIO102,103
+S006,Lisa,Wilson,lisa.wilson@example.com,Female,Chemistry,CHEM101,103
+S007,Anna,Taylor,anna.taylor@example.com,Female,Math,MATH101,
